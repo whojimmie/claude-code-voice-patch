@@ -46,7 +46,7 @@ How do you want to use the patched binary?
 
 ## Using Voice Mode
 
-Once patched, open Claude Code and run `/voice` to toggle voice mode on/off (make sure it's enabled). Run it again to open the voice interface — hold **Space** to record, release to transcribe.
+Once patched, open Claude Code and run `/voice` to toggle voice mode on/off (make sure it's enabled - it will require first to disable and then enable again). Run it again to open the voice interface — hold **Space** to record, release to transcribe.
 
 > The orange microphone indicator in your macOS menu bar confirms the mic is active while recording.
 
