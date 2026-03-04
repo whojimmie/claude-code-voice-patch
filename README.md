@@ -68,3 +68,5 @@ claude update
 ls -la $(which claude)          # shows where the symlink points
 ln -sf <original-path> $(which claude)
 ```
+---
+a0@ds4e
